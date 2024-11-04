@@ -1,0 +1,29 @@
+/* CSS Document */
+
+.blue_title {
+    color: blue;
+}
+
+.suscribir {
+    display: flex;
+    margin: 20px 0;
+}
+
+.suscribir input {
+    padding: 10px;
+}
+
+.suscribir .btnSuscribir {
+    padding: 10px;
+    border: 0;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
